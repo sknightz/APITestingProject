@@ -9,4 +9,14 @@
       <initValue>'Rachael'</initValue>
       <name>USERNAME</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>TOKEN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>NAMA</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
